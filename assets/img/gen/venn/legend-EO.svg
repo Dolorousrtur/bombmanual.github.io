@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 275 200"
+   version="1.1"
+   id="svg3855"
+   sodipodi:docname="legend-EO.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata3861">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3859" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     id="namedview3857"
+     showgrid="false"
+     inkscape:zoom="4.22"
+     inkscape:cx="137.5"
+     inkscape:cy="100"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3855" />
+  <path
+     stroke="#000"
+     fill="none"
+     stroke-width="2"
+     d="M2 2h250v180H2z"
+     id="path3825" />
+  <path
+     stroke="#000"
+     stroke-width="3"
+     stroke-dasharray="15,10,4,10"
+     fill="none"
+     d="M20 30h110"
+     id="path3827" />
+  <path
+     stroke="#000"
+     stroke-width="3"
+     fill="none"
+     d="M20 70h110"
+     id="path3829" />
+  <path
+     stroke="#000"
+     stroke-width="3"
+     stroke-dasharray="3"
+     fill="none"
+     d="M20 110h110"
+     id="path3831" />
+  <path
+     stroke="#000"
+     stroke-width="8"
+     stroke-dasharray="8"
+     fill="none"
+     d="M20 150h110"
+     id="path3833" />
+  <text
+     text-anchor="left-middle"
+     x="149.05214"
+     y="73.635071"
+     font-size=".75em"
+     id="text3845"
+     style="font-size:9px;font-family:special_eliteregular, sans-serif">Kablo estas blua</text>
+  <text
+     text-anchor="left-middle"
+     x="150"
+     y="113"
+     font-size=".75em"
+     id="text3849"
+     style="font-size:9px;font-family:special_eliteregular, sans-serif">
+    <tspan
+       id="tspan3847">Simbolo★</tspan>
+  </text>
+  <text
+     text-anchor="left-middle"
+     x="150"
+     y="154"
+     font-size=".75em"
+     id="text3853"
+     style="font-size:9px;font-family:special_eliteregular, sans-serif">
+    <tspan
+       id="tspan3851">LED lumas</tspan>
+  </text>
+  <text
+     text-anchor="left-middle"
+     x="149.39865"
+     y="32.739109"
+     font-size=".75em"
+     id="text3845-3"
+     style="font-size:9px;font-family:special_eliteregular, sans-serif">Kablo estas ruĝa</text>
+</svg>
